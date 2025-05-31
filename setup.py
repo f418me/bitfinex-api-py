@@ -44,7 +44,7 @@ setup(
     ],
     install_requires=[
         "pyee~=11.1.0",
-        "websockets~=12.0",
+        "websockets~=13.0",
         "requests~=2.32.3",
     ],
     extras_require={
